@@ -18,5 +18,8 @@ class GardenGnome
  def shout
    puts "GNARLY!!!"
  end
+ 
+ def introduce_self
+   puts "Hello humans my name is Robert, I am 23 years old, and you'll rue the day you crossed me!"
   
  end 
