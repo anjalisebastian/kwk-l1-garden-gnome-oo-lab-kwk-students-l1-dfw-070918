@@ -9,7 +9,6 @@ class GardenGnome
   
   def personality
     @personality
-  instance1 = GardenGnome.new(hat_color = "red")
 end
   
   
