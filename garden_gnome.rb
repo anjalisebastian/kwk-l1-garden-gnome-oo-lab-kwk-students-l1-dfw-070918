@@ -16,7 +16,7 @@ class GardenGnome
   end
  
  def gnaw
-   "Gnawing on a tree!!!"
+   puts "Gnawing on a tree!!!"
  end
  
  def shout
@@ -27,5 +27,4 @@ class GardenGnome
    puts "Hello humans my name is Robert, I am 23 years old, and you'll rue the day you crossed me!"
  end
  
- puts gnaw
 end 
