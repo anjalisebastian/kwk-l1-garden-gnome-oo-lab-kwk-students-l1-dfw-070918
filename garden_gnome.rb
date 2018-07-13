@@ -27,6 +27,8 @@ class GardenGnome
   "Hello humans my name is Robert, I am 23 years old, and you'll rue the day you crossed me!"
  end
  
+puts GardenGnome.gnaw 
+puts 
 
- 
+
 end 
