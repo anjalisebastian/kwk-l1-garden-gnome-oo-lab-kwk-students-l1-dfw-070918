@@ -4,7 +4,7 @@ class GardenGnome
   
   def initialize(personality, hat_color)
     @personality = personality
-    @hat_color = hat
+    @hat_color = hat_color
   end
   instance1 = GardenGnome.new(hat_color = "red")
 end
