@@ -13,7 +13,7 @@ class GardenGnome
   
   def personality
     @personality
- end
+  end
  
  def gnaw
    "Gnawing on a tree!!!"
