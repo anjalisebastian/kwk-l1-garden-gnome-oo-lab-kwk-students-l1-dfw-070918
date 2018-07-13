@@ -28,4 +28,4 @@ class GardenGnome
  end
  
  puts gnaw
- end 
+end 
