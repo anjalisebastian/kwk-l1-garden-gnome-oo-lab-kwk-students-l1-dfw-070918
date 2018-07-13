@@ -3,7 +3,8 @@ class GardenGnome
   attr_accessor :name, :age, :gluten_allergy
   
   def initialize(personality, hat_color)
-    @personality = "evil"
+    @personality = personality
+    @hat_color = hat
   end
   instance1 = GardenGnome.new(hat_color = "red")
 end
