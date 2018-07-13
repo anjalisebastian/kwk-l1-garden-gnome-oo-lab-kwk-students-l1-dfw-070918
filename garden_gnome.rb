@@ -31,4 +31,4 @@ class GardenGnome
 end 
 
 gnome = GardenGnome.new("blue")
-gnome.introduce_self
+puts gnome.introduce_self
