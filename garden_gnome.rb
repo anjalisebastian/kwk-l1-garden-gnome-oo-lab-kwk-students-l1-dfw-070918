@@ -9,6 +9,14 @@ class GardenGnome
   
   def personality
     @personality
-end
+ end
+ 
+ def gnaw
+   puts "Gnawing on a tree!!!"
+ end
+ 
+ def shout
+   puts "GNARLY!!!"
+ end
   
-  
+ end 
